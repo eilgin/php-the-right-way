@@ -1,9 +1,9 @@
 ---
 isChild: true
-anchor:  php_paas_providers
+anchor:  fournisseurs_paas_pour_php
 ---
 
-## Fournisseurs PaaS PHP {#php_paas_providers_title}
+## Fournisseurs PaaS pour PHP {#php_paas_providers_title}
 
 * [PagodaBox](https://pagodabox.com/)
 * [AppFog](https://appfog.com/)
